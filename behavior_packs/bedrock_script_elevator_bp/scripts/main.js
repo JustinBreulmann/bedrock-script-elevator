@@ -7,3 +7,5 @@
 // Build-Trace #3: Piston-Sounds während der Fahrt
 
 // Build-Trace #4: Prüfung auf undefined hinzugefügt
+
+// Build-Trace #5: Cooldown eingebaut um Etagen-Überspringen zu verhindern
