@@ -11,3 +11,5 @@
 // Build-Trace #5: Cooldown eingebaut um Etagen-Überspringen zu verhindern
 
 // Build-Trace #6: Fehler an maximaler Bauhöhe behoben
+
+// Build-Trace #7: auf lokaler Testwelt ausprobiert
