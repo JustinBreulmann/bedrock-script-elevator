@@ -27,3 +27,5 @@
 // Build-Trace #13: README Notizen aktualisiert
 
 // Build-Trace #14: Imports bereinigt
+
+// Build-Trace #16: Formatierung und Kommentare angepasst
