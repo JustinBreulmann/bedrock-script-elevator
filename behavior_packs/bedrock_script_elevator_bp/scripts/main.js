@@ -29,3 +29,5 @@
 // Build-Trace #14: Imports bereinigt
 
 // Build-Trace #16: Formatierung und Kommentare angepasst
+
+// Build-Trace #17: kleiner Fix
