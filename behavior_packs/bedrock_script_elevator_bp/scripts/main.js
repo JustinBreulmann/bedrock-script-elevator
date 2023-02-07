@@ -31,3 +31,5 @@
 // Build-Trace #16: Formatierung und Kommentare angepasst
 
 // Build-Trace #17: kleiner Fix
+
+// Build-Trace #18: Code aufgeräumt
