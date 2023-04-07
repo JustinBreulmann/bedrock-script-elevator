@@ -33,3 +33,5 @@
 // Build-Trace #17: kleiner Fix
 
 // Build-Trace #18: Code aufgeräumt
+
+// Build-Trace #19: Randfall abgefangen
