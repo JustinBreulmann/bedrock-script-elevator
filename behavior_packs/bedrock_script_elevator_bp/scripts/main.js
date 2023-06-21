@@ -35,3 +35,5 @@
 // Build-Trace #18: Code aufgeräumt
 
 // Build-Trace #19: Randfall abgefangen
+
+// Build-Trace #20: ups, das korrigiert
