@@ -37,3 +37,5 @@
 // Build-Trace #19: Randfall abgefangen
 
 // Build-Trace #20: ups, das korrigiert
+
+// Build-Trace #21: Prüfung auf 2 freie Luftblöcke über Zielblock
