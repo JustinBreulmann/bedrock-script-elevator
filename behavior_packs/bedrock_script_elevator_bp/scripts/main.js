@@ -39,3 +39,5 @@
 // Build-Trace #20: ups, das korrigiert
 
 // Build-Trace #21: Prüfung auf 2 freie Luftblöcke über Zielblock
+
+// Build-Trace #22: Werte feinjustiert
