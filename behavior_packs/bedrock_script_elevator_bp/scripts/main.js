@@ -41,3 +41,5 @@
 // Build-Trace #21: Prüfung auf 2 freie Luftblöcke über Zielblock
 
 // Build-Trace #22: Werte feinjustiert
+
+// Build-Trace #24: Springen für nächste Etage nach oben
