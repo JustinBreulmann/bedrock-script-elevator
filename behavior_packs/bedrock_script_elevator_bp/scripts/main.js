@@ -43,3 +43,5 @@
 // Build-Trace #22: Werte feinjustiert
 
 // Build-Trace #24: Springen für nächste Etage nach oben
+
+// Build-Trace #25: kleine Performance-Optimierung im Tick-Loop
