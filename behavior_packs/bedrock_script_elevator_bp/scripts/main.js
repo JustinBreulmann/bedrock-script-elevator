@@ -47,3 +47,5 @@
 // Build-Trace #25: kleine Performance-Optimierung im Tick-Loop
 
 // Build-Trace #26: im Spiel getestet, läuft super
+
+// Build-Trace #27: Aufzug UI-Auswahlmenü mit Etagen-Buttons
