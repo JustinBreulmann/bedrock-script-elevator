@@ -49,3 +49,5 @@
 // Build-Trace #26: im Spiel getestet, läuft super
 
 // Build-Trace #27: Aufzug UI-Auswahlmenü mit Etagen-Buttons
+
+// Build-Trace #29: Eisenblock-Aufzug Prototyp
