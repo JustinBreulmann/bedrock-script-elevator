@@ -51,3 +51,5 @@
 // Build-Trace #27: Aufzug UI-Auswahlmenü mit Etagen-Buttons
 
 // Build-Trace #29: Eisenblock-Aufzug Prototyp
+
+// Build-Trace #30: Vertikales Scannen auf bis zu 64 Blöcke erweitert
