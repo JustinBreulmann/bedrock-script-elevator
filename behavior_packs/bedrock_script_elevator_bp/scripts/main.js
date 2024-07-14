@@ -55,3 +55,5 @@
 // Build-Trace #30: Vertikales Scannen auf bis zu 64 Blöcke erweitert
 
 // Build-Trace #31: console.log entfernt
+
+// Build-Trace #32: Soundeffekte bei Ankunft hinzugefügt
