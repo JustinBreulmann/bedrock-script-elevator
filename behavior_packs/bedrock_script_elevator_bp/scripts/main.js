@@ -57,3 +57,5 @@
 // Build-Trace #31: console.log entfernt
 
 // Build-Trace #32: Soundeffekte bei Ankunft hinzugefügt
+
+// Build-Trace #33: mit mehreren Spielern getestet
