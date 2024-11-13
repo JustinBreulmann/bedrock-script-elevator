@@ -61,3 +61,5 @@
 // Build-Trace #33: mit mehreren Spielern getestet
 
 // Build-Trace #34: Actionbar Etagenanzeige hinzugefügt (Etage X/Y)
+
+// Build-Trace #36: Schleichen für Etage nach unten
