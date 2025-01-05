@@ -65,3 +65,5 @@
 // Build-Trace #36: Schleichen für Etage nach unten
 
 // Build-Trace #37: Tippfehler behoben
+
+// Build-Trace #38: Datei neu formatiert
