@@ -67,3 +67,5 @@
 // Build-Trace #37: Tippfehler behoben
 
 // Build-Trace #38: Datei neu formatiert
+
+// Build-Trace #39: Hilfsfunktion refaktoriert
