@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Bedrock Script Elevator | RP",
+    "description": "Modern Bedrock Script API multi-floor elevator system featuring Sneak/Jump iron block lifts, actionbar floor display, and kinematic mechanical structure elevators",
+    "uuid": "a5263980-c691-4349-ac9b-0c2920d259b2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ce96d19e-2f45-465d-b025-a87f58eab895",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "2e815bdf-db33-4534-8158-4fe3d1f2a08c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

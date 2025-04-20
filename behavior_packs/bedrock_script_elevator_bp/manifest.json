@@ -5,8 +5,8 @@
     "description": "Modern Bedrock Script API multi-floor elevator system featuring Sneak/Jump iron block lifts, actionbar floor display, and kinematic mechanical structure elevators",
     "uuid": "2e815bdf-db33-4534-8158-4fe3d1f2a08c",
     "version": [
-      0,
       1,
+      0,
       0
     ],
     "min_engine_version": [
@@ -20,8 +20,8 @@
       "type": "data",
       "uuid": "81b2ae93-be13-43ab-8ce6-3df2bb8cac98",
       "version": [
-        0,
         1,
+        0,
         0
       ]
     },
@@ -31,8 +31,8 @@
       "uuid": "459d0573-e216-4f31-8ab6-484fabd8c0b5",
       "entry": "scripts/main.js",
       "version": [
+        1,
         0,
-        3,
         0
       ]
     }
@@ -40,11 +40,19 @@
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": "1.0.0-beta"
+      "version": "1.14.0"
     },
     {
       "module_name": "@minecraft/server-ui",
-      "version": "1.0.0-beta"
+      "version": "1.3.0"
+    },
+    {
+      "uuid": "a5263980-c691-4349-ac9b-0c2920d259b2",
+      "version": [
+        1,
+        0,
+        0
+      ]
     }
   ]
 }
