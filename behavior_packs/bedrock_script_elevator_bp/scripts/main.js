@@ -13,3 +13,5 @@ system.runInterval(() => {
 }, 4);
 
 console.warn("[Bedrock Script Elevator] Aufzugsystem aktiv.");
+
+// Build-Trace #41: Tippfehler behoben
