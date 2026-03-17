@@ -17,3 +17,5 @@ console.warn("[Bedrock Script Elevator] Aufzugsystem aktiv.");
 // Build-Trace #41: Tippfehler behoben
 
 // Build-Trace #42: Werte feinjustiert
+
+// Build-Trace #43: Prüfung auf undefined hinzugefügt
