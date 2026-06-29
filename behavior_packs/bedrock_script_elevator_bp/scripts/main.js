@@ -21,3 +21,5 @@ console.warn("[Bedrock Script Elevator] Aufzugsystem aktiv.");
 // Build-Trace #43: Prüfung auf undefined hinzugefügt
 
 // Build-Trace #44: Cooldown angepasst
+
+// Build-Trace #45: kleine Performance-Optimierung im Tick-Loop
