@@ -1,6 +1,6 @@
 {
   "name": "bedrock-script-elevator",
-  "version": "0.1.0",
+  "version": "1.0.0-rc.1",
   "description": "Modern Bedrock Script API multi-floor elevator system featuring Sneak/Jump iron block lifts, actionbar floor display, and kinematic mechanical structure elevators",
   "author": "Justin Breulmann <jb824851@fh-muenster.de>",
   "license": "MIT",
