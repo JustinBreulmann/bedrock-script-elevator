@@ -23,3 +23,5 @@ console.warn("[Bedrock Script Elevator] Aufzugsystem aktiv.");
 // Build-Trace #44: Cooldown angepasst
 
 // Build-Trace #45: kleine Performance-Optimierung im Tick-Loop
+
+// Build-Trace #47: WIP
